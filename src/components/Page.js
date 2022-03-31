@@ -13,7 +13,7 @@ const Choices = styled.p`
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-`;c
+`;
 
 const Choice  = styled.p`
   border-radius: 50px;
